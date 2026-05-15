@@ -4,8 +4,6 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=C9A227&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Full+Stack+Developer;Founder+%40+DudhAmrut;Building+Real-World+AI+Systems" />
-
 </div>
 
 ---
@@ -16,9 +14,6 @@
 
 <div align="center">
 
-<img src="YOUR_BANNER_IMAGE_LINK_HERE" width="100%" />
-
-<br><br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=C9A227&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Full+Stack+Developer;Founder+%40+DudhAmrut;Building+Real-World+AI+Systems;Medical+AI+%7C+DairyTech+%7C+MERN+Stack;Turning+Ideas+Into+Impact" />
 
@@ -33,9 +28,6 @@
 </div>
 
 ---
-
-# 👋 Hey, I'm Shubham Salunke
-
 🚀 Computer Engineering student passionate about building **real-world AI systems**, scalable full-stack applications, and technology-driven solutions with practical impact.
 
 My work focuses on combining:
