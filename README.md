@@ -97,7 +97,7 @@ https://github.com/DudhAmrut
 ⚡ **PyTorch • YOLOv8 • FastAPI • Docker • Grad-CAM**
 
 🔗 Repository:  
-https://github.com/shubhamsalunke27
+https://github.com/shubhamsalunke27/CliniScanAI-Lung-Abnormality-Detection
 
 ---
 
@@ -108,7 +108,7 @@ https://github.com/shubhamsalunke27
 ⚡ **LLMs • FastAPI • Docker • OpenEnv**
 
 🔗 Repository:  
-https://github.com/shubhamsalunke27
+https://github.com/shubhamsalunke27/MailMind.ai-OpenEnv-Enterprise-Email-Triage
 
 ---
 
@@ -140,6 +140,11 @@ https://github.com/shubhamsalunke27/SDSS-Galaxy-Classification-Using-ML
 
 ⚡ **MongoDB • Express.js • React.js • Node.js**
 
+
+🔗 Repository:  
+https://github.com/shubhamsalunke27/Freelancing-application-mern
+
+
 ---
 
 ## 🎓 Student Support System
@@ -147,6 +152,11 @@ https://github.com/shubhamsalunke27/SDSS-Galaxy-Classification-Using-ML
 > Centralized academic support and complaint management platform for improving student-authority interaction.
 
 ⚡ **Python • Flask • SQLite**
+
+
+🔗 Repository:  
+https://github.com/shubhamsalunke27/Student-Support-System
+
 
 ---
 
