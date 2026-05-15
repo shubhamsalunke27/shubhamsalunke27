@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" />
+<img src="assets/LinkedIn_Banner.png" width="100%" />
 
 <br><br>
 
