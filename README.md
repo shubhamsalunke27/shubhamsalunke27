@@ -1,44 +1,60 @@
-# 👋 Hey, I'm Shubham Salunke
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=C9A227&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Full+Stack+Developer;Founder+%40+DudhAmrut;Building+Real-World+AI+Systems;Medical+AI+%7C+DairyTech+%7C+MERN+Stack;Turning+Ideas+Into+Impact" />
+<img src="assets/banner.png" width="100%" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/AI-Engineer-black?style=for-the-badge&logo=openai">
-<img src="https://img.shields.io/badge/FullStack-Developer-0A66C2?style=for-the-badge">
-<img src="https://img.shields.io/badge/MERN-Stack-3FA037?style=for-the-badge&logo=mongodb">
-<img src="https://img.shields.io/badge/DairyTech-Innovator-C9A227?style=for-the-badge">
-<img src="https://img.shields.io/badge/Medical-AI-red?style=for-the-badge">
-
-<br><br>
-
-### 🚀 Turning Ideas Into Real-World Intelligent Systems
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=C9A227&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Full+Stack+Developer;Founder+%40+DudhAmrut;Building+Real-World+AI+Systems" />
 
 </div>
 
 ---
 
-# 🧠 About Me
+# 👋 Hey, I'm Shubham Salunke
 
-I’m a **Computer Engineering student**, **AI enthusiast**, and **Full Stack Developer** passionate about building scalable, practical, and impactful technology solutions.
+
+
+<div align="center">
+
+<img src="YOUR_BANNER_IMAGE_LINK_HERE" width="100%" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=C9A227&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Full+Stack+Developer;Founder+%40+DudhAmrut;Building+Real-World+AI+Systems;Medical+AI+%7C+DairyTech+%7C+MERN+Stack;Turning+Ideas+Into+Impact" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI-Engineer-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/FullStack-Developer-0A66C2?style=for-the-badge">
+<img src="https://img.shields.io/badge/MERN-Stack-3FA037?style=for-the-badge&logo=mongodb">
+<img src="https://img.shields.io/badge/DairyTech-Innovator-C9A227?style=for-the-badge">
+<img src="https://img.shields.io/badge/Medical-AI-red?style=for-the-badge">
+
+</div>
+
+---
+
+# 👋 Hey, I'm Shubham Salunke
+
+🚀 Computer Engineering student passionate about building **real-world AI systems**, scalable full-stack applications, and technology-driven solutions with practical impact.
 
 My work focuses on combining:
 
 - 🤖 Artificial Intelligence
 - 🌐 Full Stack Development
 - 📡 IoT & Smart Systems
-- ⚙️ Scalable Application Architecture
+- ⚙️ Scalable System Design
 - 🧠 Real-World Problem Solving
 
-to create intelligent systems that solve real operational challenges.
+to create intelligent systems that solve operational and industry-level challenges.
+
+> **“Real impact starts with understanding real problems.”**
 
 ---
 
-# 🥛 Founder @ DudhAmrut
+## 🥛 Founder @ DudhAmrut
 
-### 🚀 DairyTech Initiative for Transparency, Traceability & AI-Driven Dairy Intelligence
+### AI + IoT DairyTech Initiative
 
 DudhAmrut is a DairyTech initiative focused on improving:
 
@@ -47,31 +63,34 @@ DudhAmrut is a DairyTech initiative focused on improving:
 - Supply Chain Transparency
 - AI-driven Dairy Intelligence
 
-through AI, IoT, and modern scalable technologies.
+through AI, IoT, and scalable technologies.
 
-What makes the initiative unique is its foundation in:
-
-- 🌾 Direct farmer interactions
+The initiative was shaped through:
+- 🌾 Farmer interactions
 - 🥛 Dairy ecosystem exposure
-- 🚚 Real-world workflow understanding
-- 📦 Ground-level operational validation
+- 🚚 Collection center workflows
+- 📦 Ground-level operational understanding
 
 rather than only theoretical assumptions.
 
-> **“Real impact starts with understanding real problems.”**
+🔗 **Organization:**  
+https://github.com/DudhAmrut
 
 ---
 
-# 💻 Technical Skills
+## ⚡ Tech Stack
 
 <div align="center">
 
-| Frontend | Backend | AI / ML | Database | Tools |
-|---|---|---|---|---|
-| HTML5 | Node.js | Machine Learning | MongoDB | Git |
-| CSS3 | Express.js | Deep Learning | SQL | GitHub |
-| JavaScript | FastAPI | PyTorch | SQLite | Docker |
-| React.js | Flask | YOLOv8 | Firebase | Hugging Face |
+<img src="https://skillicons.dev/icons?i=python,js,java,react,nodejs,express,fastapi,flask,mongodb,mysql,firebase,docker,git,github,vscode" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge">
+<img src="https://img.shields.io/badge/Deep%20Learning-111827?style=for-the-badge">
+<img src="https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge">
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge">
+<img src="https://img.shields.io/badge/Data%20Science-111827?style=for-the-badge">
 
 </div>
 
@@ -79,174 +98,122 @@ rather than only theoretical assumptions.
 
 # 🚀 Featured Projects
 
-# 🫁 CliniScan AI
-### Intelligent Medical AI System for Chest X-Ray Analysis
+## 🫁 CliniScan AI
 
-> End-to-end AI-powered lung abnormality detection platform using Deep Learning, YOLOv8, Grad-CAM, FastAPI & Docker.
+> End-to-end Medical AI platform for lung abnormality detection using Deep Learning, YOLOv8 & Explainable AI.
 
-### 🔹 Highlights
+⚡ **PyTorch • YOLOv8 • FastAPI • Docker • Grad-CAM**
 
-- Multi-label disease classification
-- YOLOv8 abnormality localization
-- Explainable AI with Grad-CAM
-- FastAPI inference backend
-- Dockerized deployment
-- Hugging Face hosting
-
-### ⚙️ Tech Stack
-
-`PyTorch` • `YOLOv8` • `FastAPI` • `Docker`
-
-### 🔗 Repository
-
-[CliniScan AI](https://github.com/shubhamsalunke27)
+🔗 Repository:  
+https://github.com/shubhamsalunke27
 
 ---
 
-# 📩 MailMind.ai
-### Enterprise Email Triage AI Environment
+## 📩 MailMind.ai
 
-> AI-powered enterprise inbox simulation environment with SLA-aware routing, reward systems, and OpenEnv architecture.
+> Enterprise AI environment for intelligent email triage, SLA-aware routing, escalation workflows, and AI-driven decision systems.
 
-### 🔹 Highlights
+⚡ **LLMs • FastAPI • Docker • OpenEnv**
 
-- Multi-turn workflow reasoning
-- Intelligent routing & prioritization
-- LLM-powered decision systems
-- Enterprise workflow simulation
-- Reward-based evaluation
-
-### ⚙️ Tech Stack
-
-`LLMs` • `FastAPI` • `Docker` • `OpenEnv`
-
-### 🔗 Repository
-
-[MailMind.ai](https://github.com/shubhamsalunke27)
+🔗 Repository:  
+https://github.com/shubhamsalunke27
 
 ---
 
-# 🥛 DudhAmrut
-### AI + IoT DairyTech Ecosystem Initiative
+## 🥛 DudhAmrut
 
-> Building intelligent DairyTech systems focused on traceability, transparency, and ecosystem digitization.
+> AI + IoT DairyTech ecosystem focused on traceability, transparency, and intelligent dairy workflows.
 
-### 🔹 Focus Areas
+⚡ **AI • IoT • Full Stack • DairyTech**
 
-- Dairy intelligence systems
-- AI-driven traceability
-- IoT monitoring concepts
-- Real-world ecosystem workflows
-
-### ⚙️ Focus Technologies
-
-`AI` • `IoT` • `Full Stack`
-
-### 🔗 Organization
-
-[DudhAmrut Organization](https://github.com/DudhAmrut)
+🔗 Organization:  
+https://github.com/DudhAmrut
 
 ---
 
-# 🌌 SDSS Galaxy Classification
-### Astronomical AI & Scientific Machine Learning
+## 🌌 SDSS Galaxy Classification
 
-> Machine Learning system for galaxy classification using SDSS astronomical datasets.
+> Machine Learning system for automated galaxy classification using SDSS astronomical datasets.
 
-### ⚙️ Tech Stack
+⚡ **Python • Scikit-learn • Pandas • NumPy**
 
-`Python` • `Scikit-learn` • `Pandas`
-
-### 🔗 Repository
-
-[SDSS Galaxy Classification](https://github.com/shubhamsalunke27/SDSS-Galaxy-Classification-Using-ML)
+🔗 Repository:  
+https://github.com/shubhamsalunke27/SDSS-Galaxy-Classification-Using-ML
 
 ---
 
-# 💼 Freelancing MERN Platform
-### Full Stack Freelancing Application
+## 💼 Freelancing MERN Platform
 
-> MERN stack platform for job posting, applications, authentication, and workflow management.
+> Full-stack freelancing application with authentication, job workflows, and scalable MERN architecture.
 
-### ⚙️ Tech Stack
-
-`MongoDB` • `Express.js` • `React.js` • `Node.js`
+⚡ **MongoDB • Express.js • React.js • Node.js**
 
 ---
 
-# 🎓 Student Support System
-### Centralized Academic Support Platform
+## 🎓 Student Support System
 
-> Full-stack system for student complaint management, support workflows, and communication systems.
+> Centralized academic support and complaint management platform for improving student-authority interaction.
 
-### ⚙️ Tech Stack
-
-`Python` • `Flask` • `SQLite`
+⚡ **Python • Flask • SQLite**
 
 ---
 
 # 🏢 Experience
 
-# 🔹 AI Intern — Infosys Springboard
+## 🔹 AI Intern — Infosys Springboard
 ### *(Feb 2026 – Apr 2026)*
 
 Worked on:
-
 - Medical AI systems
 - Deep Learning workflows
 - Explainable AI integration
 - Production-oriented deployment
 - AI product engineering
 
-### 🧠 Project
-
-🫁 **CliniScan AI**
+🧠 Project: **CliniScan AI**
 
 ---
 
-# 🔹 Full Stack Development Intern — Cognifyz Technologies
+## 🔹 Full Stack Development Intern — Cognifyz Technologies
 
 Worked on:
-
-- Full-stack applications
-- Backend workflow systems
-- Practical software engineering
+- Full-stack application development
+- Backend workflows
+- Software engineering concepts
 
 ---
 
-# 🔹 Full Stack Developer Intern — SmartBridge
+## 🔹 Full Stack Developer Intern — SmartBridge
 
 Focused on:
-
 - MERN Stack Development
-- Modern frontend/backend systems
+- Frontend & backend integration
 - Deployment workflows
 
 ---
 
-# 🔹 Machine Learning Engineer Intern — SmartBridge
+## 🔹 Machine Learning Engineer Intern — SmartBridge
 
 Worked on:
-
-- AI workflows
-- ML model implementation
+- Machine Learning workflows
+- AI model implementation
 - Practical ML systems
 
 ---
 
 # 🏆 Achievements
 
-🏆 **1st Rank — Createchnova Innovation Competition**
+🏆 1st Rank — Createchnova Innovation Competition  
 
-🏆 **Zonal Winner & University Finalist — Avishkar Research Competition (SPPU)**
+🏆 Zonal Winner & University Finalist — Avishkar Research Competition (SPPU)  
 
-🏆 **Finalist — Arambh National Entrepreneurship Competition**
+🏆 Finalist — Arambh National Entrepreneurship Competition  
 
-🎓 **Cummins India Foundation Scholar**
+🎓 Cummins India Foundation Scholar  
 
-🥛 **Presented DudhAmrut at Center of Excellence in Dairy, Baramati**
+🥛 Presented DudhAmrut at Center of Excellence in Dairy, Baramati  
 
-🎤 **Head Coordinator — National Level AI Event: Createchnova AI Future Frame**
+🎤 Head Coordinator — National Level AI Event: Createchnova AI Future Frame
 
 ---
 
@@ -268,10 +235,10 @@ I believe technology should not only be innovative — it should be:
 - Practical
 - Scalable
 - Intelligent
-- Deployable
-- Human-Centered
+- User-Centric
+- Impact-Driven
 
-My goal is to build systems that create measurable real-world impact through intelligent engineering and scalable design.
+Focused on building systems that create meaningful real-world impact through engineering and intelligent design.
 
 ---
 
@@ -280,7 +247,7 @@ My goal is to build systems that create measurable real-world impact through int
 - Agentic AI Systems
 - AI Product Engineering
 - AI + IoT Integration
-- Full Stack System Design
+- Full Stack System Architecture
 - Real-Time AI Inference
 - Enterprise AI Workflows
 
@@ -293,43 +260,25 @@ My goal is to build systems that create measurable real-world impact through int
 ✅ Open Source Collaboration  
 ✅ Startup & Product Development  
 ✅ AI Research & Engineering  
-✅ DairyTech / AgriTech Ecosystems  
+✅ DairyTech / AgriTech Ecosystems
 
 ---
 
-# 🛠️ Tech Stack
+## 🌐 Connect With Me
 
 <div align="center">
 
-### Languages
+<a href="https://linkedin.com/in/shubham-salunle1">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<img src="https://skillicons.dev/icons?i=python,js,java,html,css" />
+<a href="https://github.com/shubhamsalunke27">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-### Frameworks & Libraries
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask" />
-
-### Databases & Cloud
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
-
-</div>
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shubham-salunle1)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/shubhamsalunke27)
-
-[![DudhAmrut](https://img.shields.io/badge/DudhAmrut-Organization-success?style=for-the-badge)](https://github.com/DudhAmrut)
+<a href="https://github.com/DudhAmrut">
+<img src="https://img.shields.io/badge/DudhAmrut-Organization-success?style=for-the-badge" />
+</a>
 
 <br><br>
 
@@ -348,4 +297,3 @@ My goal is to build systems that create measurable real-world impact through int
 ⭐ *“Innovation becomes meaningful when it solves real-world problems.”*
 
 </div>
-```
