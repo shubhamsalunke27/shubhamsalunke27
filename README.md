@@ -1,4 +1,3 @@
-```md
 # 👋 Hey, I'm Shubham Salunke
 
 <div align="center">
